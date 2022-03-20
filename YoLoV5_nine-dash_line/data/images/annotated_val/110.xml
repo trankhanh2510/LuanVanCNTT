@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val</folder>
+	<filename>110.jpg</filename>
+	<path>/Users/hosjiu/zalo_hackathon/zai2019_hackaton_public/images/val/110.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>490</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dash</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>369</ymin>
+			<xmax>418</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>
