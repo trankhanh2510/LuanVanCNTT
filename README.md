@@ -9,7 +9,6 @@ Sử dụng dataset của zalo hackathon public (https://drive.google.com/drive/
 Bài viết tham khảo: https://viblo.asia/p/deep-learning-thuat-toan-faster-rcnn-voi-bai-toan-phat-hien-duong-luoi-bo-faster-rcnn-object-detection-algorithm-for-nine-dash-line-detection-bJzKmREOZ9N
 
 API mà zalo đã public: https://zalo.ai/docs/api/nine-dash-line-detector
-Sử dụng model: faster-rcnn với pretrain model
+Sử dụng model: Faster R-CNN và Yolov5
 Có sử dụng aug image nhưng chưa tốt.
-bên dưới là phần build model faster rcnn, sau đó là đọc data , tiếp là phần agu image , sau đó là phần train + vẽ loss , cuối cùng là phần detect tập data test.
-đánh giá: model detect tương đối tốt với những bản đồ, nhưng vẫn có nhiều chỗ detect bị sai như những hình ảnh liên quan đến quần áo. Nhưng việc sử dụng model này để xem xét các ảnh có khả năng cao chứa đường lưỡi bò là hoàn toàn có thể nếu cải thiện thêm.
+đánh giá: model detect tương đối tốt với những bản đồ, nhưng vẫn có nhiều chỗ detect bị sai và thiếu. Nhưng việc sử dụng model này để xem xét các ảnh có khả năng cao chứa đường lưỡi bò là hoàn toàn có thể nếu cải thiện thêm.
