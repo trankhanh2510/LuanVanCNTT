@@ -15,4 +15,5 @@ Có sử dụng aug image nhưng chưa tốt.
 
 đánh giá: model detect tương đối tốt với những bản đồ, nhưng vẫn có nhiều chỗ detect bị sai và thiếu. Nhưng việc sử dụng model này để xem xét các ảnh có khả năng cao chứa đường lưỡi bò là hoàn toàn có thể nếu cải thiện thêm.
 Link Dataset: https://github.com/hoangvu98/Nine-dash-line-detection
+
 Link Dataset: https://drive.google.com/drive/folders/1_2-h5FMtXyuYcVXfDTxDc5XNWajaAA1f
